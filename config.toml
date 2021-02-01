@@ -1,0 +1,42 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Ayush Vijayant"
+theme = "m10c"
+paginate = 5
+
+[menu]
+[[menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+[[menu.main]]
+  identifier = "tags"
+  name = "Tags"
+  url = "/tags/"
+
+[params]
+  author = "Ayush Vijayant"
+  description = "Hey , Welcome to my Blog!"
+  menu_item_separator = " - "
+  avatar = "ayush1.jpg"
+  favicon = "/ayush1.jpg"
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/ayushvj08"
+  [[params.social]] 
+    name = "twitter"
+    url = "https://twitter.com/AyushVijayant"
+  [[params.social]]
+    name = "instagram"
+    url = "https://www.instagram.com/ayush_vj08/"
+
+
+# [params.style]
+#  darkestColor = "#d35050"
+#  darkColor = "#212121"
+#  lightColor = "#f5e3e0"
+#  lightestColor = "#f5f5f5"
+#  primaryColor = "#fff"
+
+   
