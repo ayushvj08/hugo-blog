@@ -30,6 +30,10 @@ paginate = 5
   [[params.social]]
     name = "instagram"
     url = "https://www.instagram.com/ayush_vj08/"
+  [[params.social]]
+    name = "facebook"
+    url = "https://www.facebook.com/profile.php?id=100009856060662"
+
 
 
 # [params.style]
